@@ -11,7 +11,7 @@ This project is a replica of the Amazon landing page created using HTML and CSS.
 
 # How to View:
 
-   1. Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/amazon-landing-page.git
+   1. Clone the Repository: Clone this repository to your local machine using git clone 
    2. Open index.html: Navigate to the project directory and open index.html in your web browser.
    3. Explore the Page: Explore the Amazon landing page replica and interact with the elements.
 
